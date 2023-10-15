@@ -7,9 +7,13 @@ Greetings, my fellow explorer of Windows' quirky quirks and peculiar peculiariti
 This isn't your typical repo. It's more like my private code carnival where I enjoy the merry-go-round of WinAPI wonders and roller-coaster code adventures.
 
 🪐 What to Explore:
+
 🪆 Enigmatic Code Notes: Dig into my collection of curious code notes, where I reveal Windows mysteries and hide secrets in plain sight.
+
 🪝 Code Treasures: Unearth magical code snippets that make windows dance, buttons sing, and pixels do the cha-cha.
+
 🔮 Windows Magic: Peek behind the curtains of the Windows OS to discover its fascinating secrets.
+
 🍭 Sweet Code Treats: Satisfy your code cravings with fun WinAPI tidbits that might just make you smile.
 
 🤡 No Need for More Contributors:
