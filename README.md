@@ -16,7 +16,9 @@ This isn't your typical repo. It's more like my private code carnival where I en
 
 🍭 Sweet Code Treats: Satisfy your code cravings with fun WinAPI tidbits that might just make you smile.
 
-🤡 No Need for More Contributors:
+😎The code is already provided, all you need is the notes, which I have done for you. The rest is on your part to do...
+
+😉No Need for More Contributors:
 Here, I'm like a circus without the need for more clowns. No contributions required—just kick back, have fun, and explore the wild world of WinAPI.
 
 🎈 Step Right Up:
