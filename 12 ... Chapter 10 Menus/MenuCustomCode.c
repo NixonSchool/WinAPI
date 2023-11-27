@@ -123,3 +123,31 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam) 
             return DefWindowProc(hwnd, message, wParam, lParam);
     }
 }
+
+
+
+//This is the modification code you should add if yours is not running:
+
+WNDCLASS wc;
+wc.cbSize        = sizeof(WNDCLASS);
+wc.style         = CS_HREDRAW | CS_VREDRAW;
+wc.lpfnWndProc   = WndProc;
+wc.cbClsExtra    = 0;
+wc.cbWndExtra    = 0;
+wc.hInstance     = GetModuleHandle(NULL);
+wc.hIcon         = LoadIcon(NULL, IDI_APPLICATION);
+wc.hCursor       = LoadCursor(NULL, IDC_ARROW);
+wc.hbrBackground = (HBRUSH)(COLOR_WINDOW + 1);
+wc.lpszMenuName  = TEXT("MyAppMenu");
+wc.lpszClassName = TEXT("MyAppClass");
+
+// If you are using Unicode, you might need to set the appropriate window class explicitly
+#ifdef UNICODE
+wc.hIconSm = LoadIcon(NULL, IDI_APPLICATION);
+#endif
+
+// Register the window class
+if (!RegisterClass(&wc)) {
+    MessageBox(NULL, TEXT("Window Registration Failed!"), TEXT("Error!"), MB_ICONEXCLAMATION | MB_OK);
+    return 1;
+}
