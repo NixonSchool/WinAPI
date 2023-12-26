@@ -1,5 +1,5 @@
 #Windows API GUI programming with C
-🚀 Welcome to the WinAPI Playground 🪁
+🚀 Welcome to the WinAPI Playground 🪁 Don't worry about the number of commits😉branching bores me.
 
 Greetings, my fellow explorer of Windows' quirky quirks and peculiar peculiarities! You've just landed in my personal amusement park of Windows programming.
 
