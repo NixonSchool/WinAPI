@@ -1,4 +1,4 @@
-#Windows API GUI programming with C
+WINDOWS API PROGRAMMING WITH C
 🚀 Welcome to the WinAPI Playground 🪁
 
 Greetings, my fellow explorer of Windows' peculiar peculiarities! 
