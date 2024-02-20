@@ -1,17 +1,11 @@
-WINDOWS API PROGRAMMING WITH C
+**WINDOWS API PROGRAMMING WITH C**
 🚀 Welcome to the WinAPI Playground 🪁
 
-Greetings, my fellow explorer of Windows' peculiar peculiarities! 
-
-You've just landed in my personal amusement park of Windows programming.
-
 🎉 About This Repository:
-This isn't your typical repo. It's my private code carnival where I enjoy the merry-go-round of WinAPI wonders.
+Greetings, my fellow explorer of Windows' peculiar peculiarities! You've just landed in my personal amusement park of Windows programming. This isn't your typical repo. It's my private code carnival where I enjoy the merry-go-round of WinAPI wonders.
 
 🪐 What to Explore:
-Delve into my treasure trove of code and notes, diving into the fascinating world of Windows, making pixels dance 🎶 . 
-
-😎The code is already provided, all you need is the notes, which I have done for you. The rest is on your part to do...
+Delve into my treasure trove of code and notes, diving into the fascinating world of Windows, making pixels dance 🎶 . The code is already provided, all you need is the notes, which I have done for you. The rest is on your part to do...
 
 😉No Need for More Contributors:
 No contributions required—just kick back, have fun, and explore the wild world of WinAPI.
