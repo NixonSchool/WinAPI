@@ -66,12 +66,6 @@ A love for low-level madness, unless you're a framework fanatic.
 
 🚫 No contributions needed! Unless you're feeling generous. I accept both pull requests, **cash**, and pizzas. 🍕
 
-Make a donation on paypal? 
-
-https://www.paypal.com/donate/?hosted_button_id=ZKCJNMVY5Y9S6
-
-![image](https://github.com/user-attachments/assets/c82668e1-7080-4084-8b8f-cc01468dea2d)
-
 There's a lot of code and notes, I've tried my best to remove API's and stuff, but If I accidentally forgot any private stuff, please tell me. I'll get it fixed.
 
 ================================================
