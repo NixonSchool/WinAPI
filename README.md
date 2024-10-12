@@ -16,7 +16,7 @@ Picture this: There I was, lost in the digital deserts, searching for mine conta
 
 What did I find? Dusty ancient scrolls (aka outdated books and forgotten forums). 📚 That was painful folks. There was absolutely nobody willing to teach me WinAPI for free and I mean, how are we supposed to master operating systems without solid WinAPI resources? 
 
-![image](https://github.com/user-attachments/assets/e1ef4aa8-ee06-4522-b886-b204bee43494)
+![image](https://github.com/user-attachments/assets/f9119b7f-0325-4807-a11e-357209e95e97)
 
 I decided to venture into the seas of outdated documentation and cryptic Chinese forums to bring you this treasure trove. 💎
 
