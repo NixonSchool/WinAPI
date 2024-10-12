@@ -66,11 +66,9 @@ A love for low-level madness, unless you're a framework fanatic.
 
 🚫 No contributions needed! Unless you're feeling generous. I accept both pull requests, **cash**, and pizzas. 🍕
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-    <input type="hidden" name="hosted_button_id" value="ZKCJNMVY5Y9S6" />
-    <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" name="submit" alt="Donate with PayPal button" />
-    <img alt="" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+Make a donation on paypal? 
+
+https://www.paypal.com/donate/?hosted_button_id=ZKCJNMVY5Y9S6
 
 ![image](https://github.com/user-attachments/assets/c82668e1-7080-4084-8b8f-cc01468dea2d)
 
