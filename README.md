@@ -17,11 +17,13 @@ C/C++ programming knowledge. (I already have a C repo if you don’t mind starti
 🚫 Prohibited: Caffeine (Colorful notes need no caffeine; I promise you won’t sleep.)
 
 **Contributions:**
+
 🚫 No contributions needed! Unless you're feeling generous. I accept both pull requests, cash, and pizzas. 🍕
 
 Remember: Rome wasn't built in a day, and neither was a decent WinAPI programmer. Practice makes perfect...
 
-License:
+**License:**
+
 🆓 It's all free! Fork it, clone it, print it out, and use it as wallpaper. Go wild!
 
 Follow for more computing adventures where we dig deeper than a framework fanboy. And there’s no safety net—you just dive in. 😜
