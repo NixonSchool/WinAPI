@@ -27,13 +27,18 @@ Why? Because learning shouldn't cost you that much effort. There should be somew
 **This repo is for all of you out there:**
 
 Struggling students 📚
+
 Curious coders 🧐
+
 Bootcamp dropouts 🏃‍♂️💨
+
 Anyone who's ever yelled "WHY ISN'T THERE A DECENT TUTORIAL FOR THIS?!" at 3 AM 🌙😤
 
 ![image](https://github.com/user-attachments/assets/031bd83d-3577-4cd9-a61b-1eb87e517f06)
 
-I've poured my blood, sweat, and tears (mostly tears) into this project. It's my gift to you - the next generation of Windows programmers. Am 22 by the way(2024), and am in no way a master at this stuff. 🧙‍♂️✨
+I've poured my blood, sweat, and tears (mostly tears) into this project. It's my gift to you - the next generation of Windows programmers. 
+
+Am 22 by the way(2024), and am in no way a master at this stuff. 🧙‍♂️✨
 
 Am here to keep the flame of low-level programming burning bright!
 
@@ -51,17 +56,23 @@ Am here to keep the flame of low-level programming burning bright!
 
 **Prerequisites and contributions:**
 
-C/C++ programming knowledge. (I already have a C repo if you don’t mind starting there). A love for low-level madness, unless you're a framework fanatic.
+C/C++ programming knowledge. (I already have a C repo if you don’t mind starting there). 
+
+A love for low-level madness, unless you're a framework fanatic.
 
 🚫 Prohibited: Caffeine (Colorful notes need no caffeine; I promise you won’t sleep.)
 
 🚫 No contributions needed! Unless you're feeling generous. I accept both pull requests, **cash**, and pizzas. 🍕
 
+![image](https://github.com/user-attachments/assets/5426ad69-a79b-41d5-95b9-4133df95a4a7)
+
 ================================================
 
 **License:**
 
-🆓 It's all free and you can eat your money! Fork it, clone it, print it out, and use it as wallpaper. Go wild!
+🆓 It's all free and you can eat your money! 
+
+Fork it, clone it, print it out, and use it as wallpaper. Go wild!
 
 ![image](https://github.com/user-attachments/assets/ed8107a5-8eff-4cc6-9b54-3cdfacfca65b)
 
