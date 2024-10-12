@@ -9,7 +9,7 @@ int main()
     wprintf(L"Hello, world!");
     //Define a wide character variable
     wchar_t c = L'A';
-    //Define a pionter to a wide character string.
+    //Define a pointer to a wide character string.
     wchar_t *p;
     //Initialize a pointer ot a wide character string
     p = L"Hello!";

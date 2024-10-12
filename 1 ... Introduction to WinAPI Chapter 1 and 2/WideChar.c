@@ -296,25 +296,24 @@ void printNumbers(int count, ...) {
 //The variadic function.
 
 void printStrings(int count, ...) {
-  va_list args;
-  va_start(args, count);
+        va_list args;
+        va_start(args, count);
 
-  for (int i = 0; i < count; i++) {
-    char* str = va_arg(args, char*);
-    printf("%s ", str);
-  }
+        for (int i = 0; i < count; i++) {
+        char* str = va_arg(args, char*);
+        printf("%s ", str);
+    }
 
-  va_end(args);
+    va_end(args);
 }
 
 //How to use it.
 
 int main() {
-  printStrings(2, "Hello", "world!");
-  return 0;
+    printStrings(2, "Hello", "world!");
+    return 0;
 }
-
-
+  
 
 ======================================
 
