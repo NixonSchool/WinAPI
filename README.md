@@ -48,7 +48,7 @@ Am here to keep the flame of low-level programming burning bright!
 
 💻 Colorful code: (WinAPI is often seen as black and white; I mention it, and someone already visualizes MS-DOS. And since you like sleep, colors won't let that happen...)
 
-![image](https://github.com/user-attachments/assets/62513568-3c29-434e-9c8f-13cd61b906e6)
+![image](https://github.com/user-attachments/assets/008ddb92-1232-4c4f-8d00-e945ba2df9c2)
 
 📚 Notes that actually make sense: (I know, shocking! Clear notes, explained to the core.)
 
