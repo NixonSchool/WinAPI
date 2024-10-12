@@ -7,6 +7,6 @@ Dive into my collection of code and notes as we explore the weird and wonderful 
 
 No need to contribute or bring your own tricks. Just kick back, have fun, and enjoy the show! Every line of code here has a story, so come on in and let's geek out over some WinAPI magic.
 
-The adventure begins now! 🎉 And remember, you won't be a master in a single day, neither am I. Practice makes perfect. Lets go!!😊
+The adventure begins now! 🎉 And remember, you won't be a master in a single day, neither am I. Practice makes perfect. Lets go!!🚀🚀
 
 And hey, did I mention? It’s all free, forever! Fork it, reuse it, break it (well, maybe not too much), and pass it around. Don't forget to follow me for more future notes and adventures on crazier COMPUTING subjects. Thanks for being here.
