@@ -68,8 +68,6 @@ A love for low-level madness, unless you're a framework fanatic.
 
 There's a lot of code and notes, I've tried my best to remove API's and stuff, but If I accidentally forgot any private stuff, please tell me. I'll get it fixed.
 
-[Show Your Appreciation](https://www.paypal.com/donate/?hosted_button_id=ZKCJNMVY5Y9S6)
-
 ================================================
 
 **License:**
